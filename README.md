@@ -13,5 +13,4 @@ Collection of all the great Java related article around the globe in one place, 
  * Common Mistake #9: Breaking Contracts
  * Common Mistake #10: Using Raw Type Instead of a Parameterized One
 
-2. [Explore Java API](http://www.falkhausen.de/index.html)
-* This site presents enhanced class diagrams. The diagrams are interactive and show the API documentation.
+2. [Explore Java API](http://www.falkhausen.de/index.html) : This site presents enhanced class diagrams. The diagrams are interactive and show the API documentation.
