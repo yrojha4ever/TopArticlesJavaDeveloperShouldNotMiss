@@ -17,3 +17,10 @@ Collection of all the great Java related article around the globe in one place, 
  * Track all javafx development versions: http://hg.openjdk.java.net/openjfx
  * All information about javafx updates: http://fxexperience.com/
  
+ 3. [Check Code Quality using sonar cube:](https://sonarqube.com/coding_rules#languages=java)
+
+
+<strong>TOOLS every great developers need:</strong>
+1. [weinre to debug your own web pages on a remote device](https://people.apache.org/~pmuellr/weinre/docs/latest/Running.html)
+2. [Console emulator for Windows](http://cmder.net/)
+3. [POSTMAN: Build, test, and document your APIs](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
